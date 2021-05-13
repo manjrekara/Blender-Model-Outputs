@@ -1,0 +1,11 @@
+Dataset creation date and time:  2021-04-30_08_36_00 
+
+
+
+#freqbins = 70
+#Recievers = 600
+Aperture X: 30
+Aperture Y: 60
+X Grid Spacing: 0.004
+Y grid spacing: 0.002
+Maximum Image Intensity Value: None
